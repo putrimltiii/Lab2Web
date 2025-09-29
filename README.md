@@ -12,3 +12,4 @@ Pada praktikum ini saya mempelajari:
 4. Cara menghubungkan file CSS dengan HTML untuk membuat tampilan web lebih menarik.
 
 # Langkah Praktikum
+## 1. Membuat Dokumen HTML
