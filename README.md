@@ -13,3 +13,8 @@ Pada praktikum ini saya mempelajari:
 
 # Langkah Praktikum
 ## 1. Membuat Dokumen HTML
+
+Saya membuat file lab2_css_dasar.html sebagai kerangka awal.
+
+Penjelasan:
+Langkah pertama adalah membuat struktur HTML dasar agar halaman memiliki elemen <head> dan <body> yang siap diberi CSS.
